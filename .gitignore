@@ -3,3 +3,6 @@ datasets/
 
 # ignore train logs
 runs/
+
+# ignore test datas
+people.jpeg
